@@ -24,13 +24,22 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    padding-top: 40px;
+    padding-top: 70px;
     padding-left: 5px;
 }
 .navbar ul li{
     position: relative;
     list-style: none;
     width: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+.navbar ul li.active{
+    background: #fff;
+    margin-top: 10px;
+    position: relative;
+    top: -10px;
 }
 .navbar ul li a{
     position: relative;
@@ -39,6 +48,9 @@ body{
     display: flex;
     text-decoration: none;
     color: whitesmoke;
+}
+.navbar ul li.active a{
+    color: #333;
 }
 .navbar ul li a .icon{
     position: relative;
