@@ -39,4 +39,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Authors Info
 
 Email address- sammy.chesire@student.moringaschool.com
+<<<<<<< HEAD
 Slack profile- Sammy Chesire
+=======
+Slack profile- Sammy Chesire
+>>>>>>> c9c97e9db2f8056c8b080d43be73a161f5f4b933
